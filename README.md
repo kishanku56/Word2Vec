@@ -1,2 +1,2 @@
 # Word2Vec
-Word2Vec implementation with negative sampling for both Skip-Gram and CBOW architectures
+Word2Vec implementation with negative sampling for skip-grams and CBOW architectures
